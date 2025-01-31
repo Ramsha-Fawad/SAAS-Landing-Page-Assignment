@@ -16,7 +16,7 @@ const Customize = () => {
             <Image src="/images/Element1.png" alt="element" width={360.61} height={36.75}  />
         </div>
         <p className="font-normal font-[Inter] text-[18px] leading-[30px] w-[646px] h-[90px] tracking-[-0.02em] text-[#212529] mt-7">Customise the app with plugins, custom themes and multiple text editors (Rich Text or Markdown). Or create your own scripts and plugins using the Extension API.</p>
-        <button className="w-[164px] h-[59px] bg-[#4F9CF9] text-[#ffffff] rounded-lg font-[Inter] font-medium text-[18px] leading-[23px] tracking-[-0.02em] mt-8">Let's Go<span className='ml-2'> →</span> </button>
+        <button className="w-[164px] h-[59px] bg-[#4F9CF9] text-[#ffffff] rounded-lg font-[Inter] font-medium text-[18px] leading-[23px] tracking-[-0.02em] mt-8">Let&apos;s Go<span className='ml-2'> →</span> </button>
         </div>
       </div>
 

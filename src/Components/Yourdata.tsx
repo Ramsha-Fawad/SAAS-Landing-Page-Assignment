@@ -19,7 +19,7 @@ const Yourdata = () => {
               />
             </div>
             <p className="font-[Inter] text-[18px] leading-[30px] tracking-[-0.02em] text-[#212529] mt-7">
-              The app is open source and your notes are saved to an open format, so you'll always have access to them. Uses End-To-End Encryption (E2EE) to secure your notes and ensure no one but yourself can access them.
+              The app is open source and your notes are saved to an open format, so you&apos;ll always have access to them. Uses End-To-End Encryption (E2EE) to secure your notes and ensure no one but yourself can access them.
             </p>
             <button className="w-[176px] h-[63px] bg-[#4F9CF9] text-[#ffffff] rounded-lg font-[Inter] font-medium text-[18px] leading-[23px] tracking-[-0.02em] mt-12">
               Read More <span className="ml-2">→</span>
